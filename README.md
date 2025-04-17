@@ -13,8 +13,6 @@ A modern and responsive landing page example built using pure **HTML** and **CSS
 
 ![screenshot](2025-04-17-013456_hyprshot.png)
 
-> *(Replace with your actual image path or URL)*
-
 ## 🚀 Live Demo
 
 [🔗 View Live](https://rishav-raj-sinha.github.io/spline_integrated_website/)
